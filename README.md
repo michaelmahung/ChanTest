@@ -1,4 +1,4 @@
-#Chan_Test
+# Chan_Test
 
 ## Premise
 
@@ -12,7 +12,7 @@ This was the first project I made from beginning to end, and as such I have a bi
 a soft spot for it.
 
 
-## What I Learned
+## Things I Learned
 
 - Variable Scope
 
@@ -21,4 +21,6 @@ a soft spot for it.
 - Thread Sleeping
 
 - Return Functions
+
+- Encapsulation Basics
 
